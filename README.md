@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Balogun</h1>
-<h3 align="center">A passionate frontend devel A freelance Frontend developer based in Nigeria. I’ve worked on high-quality, responsive websites with exceptional user experience that is effective to visitoroper from India</h3>
+<h3 align="center">A frontend developer based in Lagos, Nigeria. I've worked on quality,responsive websites with exceptional user experience. I love using my skill set to simplify work for enterprises.</h3>
 
 <p align="left"> <a href="https://twitter.com/blvckaddiict" target="blank"><img src="https://img.shields.io/twitter/follow/blvckaddiict?logo=twitter&style=for-the-badge" alt="blvckaddiict" /></a> </p>
 
