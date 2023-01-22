@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/blvckaddiict" target="blank"><img src="https://img.shields.io/twitter/follow/blvckaddiict?logo=twitter&style=for-the-badge" alt="blvckaddiict" /></a> </p>
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **reactjs and TypeScript**
 
 - 📫 How to reach me **balogunmoyinoluwav.gmail.com**
 
