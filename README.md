@@ -10,7 +10,7 @@ Currently, I’m focused on building front-end web applications and integrating 
 
 - 👨‍💻 All of my projects are available at [https://victor-balogun.netlify.app/](https://victor-balogun.netlify.app/)
 
-- 💬 Ask me about **reactjs and typescript **
+- 💬 Ask me about **reactjs and nextjs **
 
 - 📫 How to reach me **balogunmoyinoluwav@gmail.com**
 
