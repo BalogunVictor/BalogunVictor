@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://victor-balogun.netlify.app/](https://victor-balogun.netlify.app/)
 
 - 📫 How to reach me **balogunmoyinoluwav@gmail.com**
-- 📄 Know about my experiences [https://docs.google.com/document/d/1yvXb_U2Z_GqtvAPnAN5R5qVRb38AV4rk2soraXCkiWk/edit?usp=sharing](https://docs.google.com/document/d/1yvXb_U2Z_GqtvAPnAN5R5qVRb38AV4rk2soraXCkiWk/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
