@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Victor Balogun</h1>
-<h3 align="center">I’m a frontend developer based in Lagos, Nigeria. specializing in building quality, responsive websites with exceptional user experience. Currently, I’m focused on building front-end web applications and integrating back-end technologies</h3>
+<img src="https://github.com/BalogunVictor/BalogunVictor/assets/93051955/b9cdc2f8-bdfe-404a-b3a0-53cec76a8e0e" width="500" height="400" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balogunvictor&label=Profile%20views&color=0e75b6&style=flat" alt="balogunvictor" /> </p>
+## Hi 👋, I'm Balogun Victor
 
-<p align="left"> <a href="https://twitter.com/blvckaddiict" target="blank"><img src="https://img.shields.io/twitter/follow/blvckaddiict?logo=twitter&style=for-the-badge" alt="blvckaddiict" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://victor-balogun.netlify.app/](https://victor-balogun.netlify.app/)
+I am a seasoned Frontend Engineer based in Lagos, Nigeria, with a proven track record of crafting high-quality, responsive websites and mobile applications distinguished by exceptional user experiences. My expertise lies in the seamless integration of frontend technologies with robust back-end systems. I am dedicated to delivering top-tier front-end web applications that not only meet, but exceed, industry standards. With a keen eye for detail and a commitment to innovation, I consistently strive to elevate digital experiences to new heights.
 
 - 📫 How to reach me **balogunmoyinoluwav@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/blvckaddiict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blvckaddiict" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/balogun(moyinoluwa)victor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balogun(moyinoluwa)victor" height="30" width="40" /></a>
-<a href="https://instagram.com/blvckaddiict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blvckaddiict" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <br/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balogunvictor&show_icons=true&locale=en" alt="balogunvictor" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balogunvictor&layout=compact)](https://github.com/balogunvictor)
 
+
+## Skills
+
+- React
+- Next.js
+- Javascript
+- Typescript
+- React Native
+- Scss
+- Tailwindcss
+- Git
