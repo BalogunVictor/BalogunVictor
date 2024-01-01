@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Balogun Victor
 
-I am a seasoned Frontend Engineer based in Lagos, Nigeria, with a proven track record of crafting high-quality, responsive websites and mobile applications distinguished by exceptional user experiences. My expertise lies in the seamless integration of frontend technologies with robust back-end systems. I am dedicated to delivering top-tier front-end web applications that not only meet, but exceed, industry standards. With a keen eye for detail and a commitment to innovation, I consistently strive to elevate digital experiences to new heights.
+I am a seasoned Software Engineer based in Lagos, Nigeria, with a proven track record of crafting high-quality, responsive websites and mobile applications distinguished by exceptional user experiences. My expertise lies in the seamless integration of frontend technologies with robust back-end systems. I am dedicated to delivering top-tier web applications that not only meet, but exceed, industry standards. With a keen eye for detail and a commitment to innovation, I consistently strive to elevate digital experiences to new heights.
 
 - 📫 How to reach me **balogunmoyinoluwav@gmail.com**
 
@@ -14,10 +14,12 @@ I am a seasoned Frontend Engineer based in Lagos, Nigeria, with a proven track r
 ## Skills
 
 - React
+- React Native
 - Next.js
 - Javascript
 - Typescript
-- React Native
+- Node.js
+- express
 - Scss
 - Tailwindcss
 - Git
