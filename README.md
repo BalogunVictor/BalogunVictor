@@ -1,4 +1,3 @@
-<img src="https://github.com/BalogunVictor/BalogunVictor/assets/93051955/b9cdc2f8-bdfe-404a-b3a0-53cec76a8e0e" width="400" height="300" />
 
 ## Hi 👋, I'm Balogun Victor
 
